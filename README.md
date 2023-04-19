@@ -12,13 +12,11 @@
 - ⚡ Fun fact **Pokemon music is the best for programming**
 
 <h2 align="left">📫 Connect with me:</h3>
-- Linkedin: <a href="https://www.linkedin.com/in/julian-giraldo-perez/"> Julian Giraldo Perez </a>
-- Instagram: <a href="https://www.instagram.com/bakuraza/"> Bakuraza </a>
-- Email: jgpbak@outlook.com
-</p>
-
-
-</p>
+<ul>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/julian-giraldo-perez/"> Julian Giraldo Perez </a></li>
+  <li>Instagram: <a href="https://www.instagram.com/bakuraza/"> Bakuraza </a></li>
+  <li>Email: jgpbak@outlook.com</li>
+</ul>
 
 <h2 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages:</h4>
