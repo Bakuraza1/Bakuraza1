@@ -1,5 +1,5 @@
 
-<img width="100%" height="200px" align="right" alt="Coding" width="200" src="https://i.gifer.com/J4o.gif">
+<img width="100%" height="200" align="right" alt="Coding" src="https://i.gifer.com/J4o.gif">
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
 <h3 align="center">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
 
