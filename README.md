@@ -2,7 +2,7 @@
 <img width="100%" height="200" align="right" alt="Coding" src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif">
 <p></p>
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
-<h3 align="center">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
+<h3 align="left">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bakuraza1&label=Profile%20views&color=0e75b6&style=flat" alt="Bakuraza1" /> </p>
 
