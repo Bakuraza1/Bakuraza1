@@ -1,4 +1,5 @@
-<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/J4o" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
+<img width="100%" height="200px" align="right" alt="Coding" width="200" src="https://i.gifer.com/J4o.gif">
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
 <h3 align="center">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
 
