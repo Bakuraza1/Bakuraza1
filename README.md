@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.gifer.com/origin/7e/7e95e163ba52640bde9aaf98ad11c0ab.gif" alt="Bakuraza1" />
+<img width="100%" height="200px" src="https://i.gifer.com/origin/7e/7e95e163ba52640bde9aaf98ad11c0ab.gif" alt="Bakuraza1" />
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
 <h3 align="center">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
 
