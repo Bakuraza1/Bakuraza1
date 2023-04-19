@@ -1,13 +1,12 @@
 <img width="100%" src="https://i.gifer.com/origin/7e/7e95e163ba52640bde9aaf98ad11c0ab.gif" alt="Bakuraza1" />
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
 <h3 align="center">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bakuraza1&label=Profile%20views&color=0e75b6&style=flat" alt="Bakuraza1" /> </p>
 
 <h2 align="left">👨‍💻 Work:</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bakuraza1&label=Profile%20views&color=0e75b6&style=flat" alt="Bakuraza1" /> </p>
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **Networking projects related to scalability**
 
