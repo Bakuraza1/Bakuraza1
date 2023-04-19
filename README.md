@@ -1,10 +1,25 @@
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
-<h3 align="center">A Computer Science student who is always striving to improve skills in different themes relevant to the industry by focusing on having solid fundamentals.</h3>
+<h3 align="center">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
+
+<h3 align="left">Work:</h3>
+
+- 🔭 I’m currently working on **Networking projects related to scalability**
 
 - 🌱 I’m currently learning **Go, Nextjs, Tailwind**
 
+- 💬 Ask me about **Video Games and Anime**
+
+- 📫 How to reach me **jgpbak@outlook.com**
+
+- ⚡ Fun fact **Pokemon music is the best for programming**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
+<a href="https://discord.gg/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a>
+</p>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
