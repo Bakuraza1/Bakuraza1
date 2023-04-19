@@ -9,14 +9,12 @@
 
 - 💬 Ask me about **Video Games and Anime**
 
-- 📫 How to reach me **jgpbak@outlook.com**
-
 - ⚡ Fun fact **Pokemon music is the best for programming**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
-<a href="https://discord.gg/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a>
+<h3 align="left">📫 Connect with me:</h3>
+- Linkedin: <a href="https://www.linkedin.com/in/julian-giraldo-perez/"> Julian Giraldo Perez </a>
+- Instagram: <a href="https://www.instagram.com/bakuraza/"> Bakuraza </a>
+- Email: jgpbak@outlook.com
 </p>
 
 
