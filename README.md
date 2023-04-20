@@ -1,5 +1,7 @@
 
-![image](https://user-images.githubusercontent.com/110442546/233493984-d7f18799-3e21-42a7-88fb-cbd29da620d0.png)
+
+
+<img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/110442546/233494091-65099b7d-1c39-4eb3-a27f-ee9fe7d5a08a.png">
 
 <p></p>
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
