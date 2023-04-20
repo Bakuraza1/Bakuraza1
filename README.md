@@ -1,5 +1,6 @@
 
-<img width="100%" height="200" align="right" alt="Coding" src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif">
+![image](https://user-images.githubusercontent.com/110442546/233493984-d7f18799-3e21-42a7-88fb-cbd29da620d0.png)
+
 <p></p>
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
 <h3 align="left">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
