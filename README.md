@@ -5,7 +5,7 @@
 
 <p></p>
 <h1 align="center">Hi 👋, I'm Julian Giraldo Perez</h1>
-<h3 align="left">A 20 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
+<h3 align="left">A 21 year old Computer Science student who is always striving to improve his skills in different themes relevant to the industry, by focusing on having solid fundamentals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bakuraza1&label=Profile%20views&color=0e75b6&style=flat" alt="Bakuraza1" /> </p>
 
